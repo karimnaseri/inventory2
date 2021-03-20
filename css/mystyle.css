@@ -1,0 +1,19 @@
+
+#depname{
+    padding-top: 60px;
+}
+table tr th{
+    text-align: center;
+}
+
+#top{
+
+    border-bottom:1px solid black;
+}
+#content{
+    min-height: 400px;
+}
+#logo{
+    padding-top: 10px ;
+    padding-left: 90px;
+}
